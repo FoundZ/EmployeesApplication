@@ -1,0 +1,20 @@
+<resources>
+    <string name="employee_id">ID:</string>
+
+    <string name="employee_first_name">First Name:</string>
+    <string name="employee_name">Name:</string>
+
+    <string name="employee_age">Age:</string>
+    <string name="employee_gender">Gender:</string>
+
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    
+    <string name="radio_gender_male">Male</string>
+    <string name="radio_gender_female">Female</string>
+
+    <string name="btn_random_data">random data</string>
+</resources>
